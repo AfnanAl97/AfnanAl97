@@ -1,6 +1,6 @@
 ### Hi, I'm Afnan 👋
 
-### Software Engineer 
+### A Software Engineer 
 
 - 🔭 I’m currently trainer on Tuwaiq Academy
 - 🌱 I’m currently learning Spring boot
