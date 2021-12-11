@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently trainer on **Tuwaiq Academy**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **iAfnanAlharbi9@gmail.com**
 
