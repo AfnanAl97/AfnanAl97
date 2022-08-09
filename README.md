@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently trainer on **Tuwaiq Academy**
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **iAfnanAlharbi9@gmail.com**
